@@ -1,0 +1,15 @@
+operator: operators are the symbols that use to perform the operations on the operands.
+
+unary operator: unary operators are the operators that perform the operations on the single operand.
+binary operator: binary operators are the operators that perform the operations on the two operands. 
+ternary operator: ternary operators are the operators that perform the operations on the three operands.
+
+binary:
+arithmetic operators: +, -, *, /, %,,**, // 
+logical operators: and or not
+relational operators: <, >, <=, >=, ==, !=
+assignment operators: =, +=, -=, *=, /=, %=,
+bitwise operators: &, |, ^, ~, <<, >>
+
+membership operators: in, not in
+identity operators: is, is not

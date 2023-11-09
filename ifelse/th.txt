@@ -1,0 +1,40 @@
+if(no>0)
+{
+    if block... true....    
+}
+......
+else
+{
+    else block... false...
+}
+
+if no>0:
+    if block... true....    
+
+else:
+    else block... false...
+
+
+
+if(age>=18){
+
+    printf("....")
+    if(age>=50){
+
+
+    }
+    else{
+
+
+    }
+
+
+}
+else{
+
+
+    if(age>=10){
+        printf
+    }
+
+}

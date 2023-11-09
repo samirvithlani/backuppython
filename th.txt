@@ -1,0 +1,7 @@
+scripting language....
+
+1)statistically typed
+        c : int a;
+2)dynamic
+    varname  = value;
+    x =100

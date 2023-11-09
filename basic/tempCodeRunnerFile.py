@@ -1,0 +1,1 @@
+print("type of x = ",type(x))
