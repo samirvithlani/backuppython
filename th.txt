@@ -5,3 +5,49 @@ scripting language....
 2)dynamic
     varname  = value;
     x =100
+
+bank bal --> 10000 
+invlid input try again...
+max chance 3
+
+
+please enter balance = 9000
+invalid input 
+please enter balance= 6000
+invalid input ..
+please enter balance = 8999
+invalid input 
+
+out of chances
+
+
+
+please enter balance = 10000
+
+
+valid input --> 10000
+
+0
+01
+010
+0101
+01010
+
+
+1
+23
+456
+78910
+1112131415
+
+*****
+*   *
+*   *
+*   *
+*****
+
+    * 
+   * *
+  * * *
+ * * * *
+  
