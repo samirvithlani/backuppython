@@ -1,0 +1,15 @@
+strip
+lstrip
+rstrip
+split
+replace replace with args
+upper
+lower
+capitalize
+title
+
+isalpha
+isalnum
+isLower
+isUpper
+isSpace
