@@ -26,3 +26,6 @@ print(x)
 x = data[-1:-5:-1]
 print(x)
 
+x = data[0::-1]
+print(x)
+
