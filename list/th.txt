@@ -1,0 +1,8 @@
+remove() #element  if element is not present it will throw error
+count(20) # count the number of occurence of element
+index(20) # return the index of element
+index(20,2,5) # return the index of element between 2 and 5
+extend([1,2,3]) # add the list to the end of the list
+sort() # sort the list
+sort(reverse=True) # sort the list in reverse order
+reverse() # reverse the list
