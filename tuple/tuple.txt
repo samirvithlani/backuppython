@@ -1,0 +1,7 @@
+charac of tuple
+1)tuple is immutable
+2)tuple is ordered
+3)tuple is iterable
+4)tuple is indexed
+5)tuple is heterogenous
+6)tuple is represented by ()
