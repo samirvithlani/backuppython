@@ -50,4 +50,13 @@ valid input --> 10000
    * *
   * * *
  * * * *
+
+
+ #keys --> list
+ values --> list
+items --> list of tuples
+get --> value
+update ->
+
+users["key"] = value
   
